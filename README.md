@@ -7,6 +7,9 @@ Within this Quickstart we will learn about Snowflake Roles, Role Based Access Co
 
 quickstart link : https://quickstarts.snowflake.com/guide/tasty_bytes_zero_to_snowflake_governance_with_horizon/index.html?index=..%2F..index#0
 
+dataset sample : https://drive.google.com/file/d/1Jki2ZdYTL6JOijR8VV7jiFn9iMkTPQW6/view?usp=sharing
+
+
 ## Prerequisites
 Before beginning, please make sure you have completed the Introduction to Tasty Bytes Quickstart which provides a walkthrough on setting up a trial account and deploying the Tasty Bytes Foundation required to complete this Quickstart.
 Please note that features leveraged within this Quickstart will require an Enterprise or Business Critical Snowflake account. Please see our documentation an Overview of Snowflake Editions.
